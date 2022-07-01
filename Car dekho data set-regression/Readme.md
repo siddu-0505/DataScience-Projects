@@ -1,5 +1,7 @@
 Project: Car Dekho Data set-Regression
+
 About the DataSet
+
 Car Dekho is a Indian second hand car selling company.
 
 Size of the dataset : 8128 records * 13 features
@@ -42,10 +44,15 @@ What we have done!
 4.Test the new data
 
 
-Tools we have use
+Tools we have use:
+
 1.Numpy
+
 2.Padas
+
 3.Matplotlib.pyplot
+
 4.Seaborn
+
 5.Sklearn
 
